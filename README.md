@@ -4,7 +4,7 @@ This project is a simple Amazon clone built using HTML, CSS, and (optionally) Ja
 
 ## Demo
 
-![Amazon Clone Screenshot](./screenshot.jpg)
+![Amazon Clone Screenshot](.screenshot.jpg)
 
 ## Features
 
